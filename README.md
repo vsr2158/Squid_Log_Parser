@@ -2,7 +2,7 @@
 Simple script that takes Squid Access.log files as inputs  and provides all unique Client IP address, and Unique URLs accessed by them.
 
 
-License Summary
+# License Summary
 
 The documentation is made available under the Creative Commons Attribution-ShareAlike 4.0 International License. See the LICENSE file.
 
